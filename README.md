@@ -37,10 +37,16 @@ npx prisma generate
 
 ## ☕ Usando
 
-Para usar player2-backend, siga estas etapas:
+Para usar player2-backend:
 
 ```
 npm run dev
+```
+
+Para para visualizar o banco:
+
+```
+npx prisma studio
 ```
 
 ## 📝 Licença

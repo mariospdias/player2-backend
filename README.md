@@ -10,6 +10,12 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Autenticação com Discord
 - [ ] Integração com a API da Twitch para obter os games de forma dinâmica
 
+## 🎯 Utilização
+
+Este projeto é utilizado nas seguintes aplicações:
+* https://github.com/mariospdias/player2-web
+* https://github.com/mariospdias/player2-mobile
+
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:

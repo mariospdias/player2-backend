@@ -9,6 +9,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [ ] Autenticação com Discord
 - [ ] Integração com a API da Twitch para obter os games de forma dinâmica
+- [ ] Implementar teste de unidade com Jest 
 
 ## 🎯 Utilização
 
